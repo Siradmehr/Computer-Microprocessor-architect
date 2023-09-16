@@ -1,0 +1,4 @@
+MVI A,1CH	
+LOOP1:	DCR A		
+		JNZ LOOP1
+HLT
