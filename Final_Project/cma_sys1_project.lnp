@@ -1,0 +1,3 @@
+".\Objects\sys1_keil.obj" 
+TO ".\Objects\cma_sys1_project" 
+PRINT(".\Listings\cma_sys1_project.m51")
